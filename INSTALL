@@ -1,0 +1,9 @@
+Building DevasCoin
+
+See doc/readme-qt.rst for instructions on building DevasCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DevasCoin.
+
+See doc/build-*.txt for instructions on building DevasCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DevasCoin.
